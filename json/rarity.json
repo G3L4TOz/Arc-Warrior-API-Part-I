@@ -1,22 +1,22 @@
 [
         {
-            "item_type_id"  : 1,
-            "keep_in_invent": "Common"
+            "rarity_id"  : 1,
+            "rarity_name": "Common"
         },
         {
-            "item_type_id"  : 2,
-            "keep_in_invent": "Rare"
+            "rarity_id"  : 2,
+            "rarity_name": "Rare"
         },
         {
-            "item_type_id"  : 3,
-            "keep_in_invent": "Epic"
+            "rarity_id"  : 3,
+            "rarity_name": "Epic"
         },
         {
-            "item_type_id"  : 4,
-            "keep_in_invent": "Legendary"
+            "rarity_id"  : 4,
+            "rarity_name": "Legendary"
         },
         {
-            "item_type_id"  : 5,
-            "keep_in_invent": "Mystic"
+            "rarity_id"  : 5,
+            "rarity_name": "Mystic"
         }
 ]
