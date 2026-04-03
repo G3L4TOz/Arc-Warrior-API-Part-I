@@ -54,9 +54,12 @@ function onClientRequest(req,resp)
 
     else
     resp.write(JSON.stringify({messages: [
-            'Hello Vercel class [2310511105001 GACHA, SHOP, MONSTER - API]',
-            'FOR GACHA [POST = /api/gacha/open]',
-            'FOR SHOP [GET = /api/shop/list]'
+            'Hello Vercel class [2310511105001 ARC WARRIOR - API]',
+            'FOR ITEM TYPE [GET = /api/item_type/open]',
+            'FOR ELEMENT [GET = /api/element/open]',
+            'FOR RARITY [GET = /api/rarity/open]',
+            'FOR ITEM [GET = /api/item/open]',
+            'FOR CHARACTER [GET = /api/character/list]'
         ]
         }))
 
