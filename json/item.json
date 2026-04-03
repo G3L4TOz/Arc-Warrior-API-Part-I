@@ -1,0 +1,114 @@
+[
+        {
+            "item_id"  : 1,
+            "item_name"  : "Gold",
+            "item_descript": "In-game currency",
+            "item_type_id" : "1",
+            "can_use" : 0,
+            "can_del" : 0
+        },
+        {
+            "item_id"  : 2,
+            "item_name"  : "Diamond",
+            "item_descript": "Top-Up currency",
+            "item_type_id" : "1",
+            "can_use" : 0,
+            "can_del" : 0
+        },
+        {
+            "item_id"  : 3,
+            "item_name"  : "Token",
+            "item_descript": "For Buy Gachapon",
+            "item_type_id" : "1",
+            "can_use" : 0,
+            "can_del" : 0
+        },
+        {
+            "item_id"  : 4,
+            "item_name"  : "Shinake",
+            "item_descript": "IDK Bro Help Me",
+            "item_type_id" : "2",
+            "can_use" : 0,
+            "can_del" : 0
+        },
+        {
+            "item_id"  : 5,
+            "item_name"  : "Primo",
+            "item_descript": "IDK Bro Help Me",
+            "item_type_id" : "2",
+            "can_use" : 0,
+            "can_del" : 0
+        },
+        {
+            "item_id"  : 6,
+            "item_name"  : "Santio",
+            "item_descript": "IDK Bro Help Me",
+            "item_type_id" : "2",
+            "can_use" : 0,
+            "can_del" : 0
+        },
+        {
+            "item_id"  : 7,
+            "item_name"  : "Ranger",
+            "item_descript": "IDK Bro Help Me",
+            "item_type_id" : "2",
+            "can_use" : 0,
+            "can_del" : 0
+        },
+        {
+            "item_id"  : 8,
+            "item_name"  : "Merla",
+            "item_descript": "IDK Bro Help Me",
+            "item_type_id" : "2",
+            "can_use" : 0,
+            "can_del" : 0
+        },
+        {
+            "item_id"  : 9,
+            "item_name"  : "Dirt Element Gems",
+            "item_descript": "Use For Upgrade Tier Dirt Character",
+            "item_type_id" : "3",
+            "can_use" : 1,
+            "can_del" : 0
+        },
+        {
+            "item_id"  : 10,
+            "item_name"  : "Water Element Gems",
+            "item_descript": "Use For Upgrade Tier Water Character",
+            "item_type_id" : "3",
+            "can_use" : 1,
+            "can_del" : 0
+        },
+        {
+            "item_id"  : 11,
+            "item_name"  : "Wind Element Gems",
+            "item_descript": "Use For Upgrade Tier Wind Character",
+            "item_type_id" : "3",
+            "can_use" : 1,
+            "can_del" : 0
+        },
+        {
+            "item_id"  : 12,
+            "item_name"  : "Fire Element Gems",
+            "item_descript": "Use For Upgrade Tier Fire Character",
+            "item_type_id" : "3",
+            "can_use" : 1,
+            "can_del" : 0
+        },
+        {
+            "item_id"  : 13,
+            "item_name"  : "Thunder Element Gems",
+            "item_descript": "Use For Upgrade Tier Thunder Character",
+            "item_type_id" : "3",
+            "can_use" : 1,
+            "can_del" : 0
+        },
+        {
+            "item_id"  : 14,
+            "item_name"  : "Gachapon Ticket",
+            "item_descript": "Use for Random Gachapon 1x Roll",
+            "item_type_id" : "4",
+            "can_use" : 1,
+            "can_del" : 0
+        }
+]

@@ -1,0 +1,52 @@
+[
+        {
+            "character_id"  : 1,
+            "item_id"  : 4,
+            "rarity_id": 5,
+            "element_id": 3,
+            "atk": 20,
+            "def": 40,
+            "hp": 100,
+            "cri": 10
+        },
+        {
+            "character_id"  : 2,
+            "item_id"  : 5,
+            "rarity_id": 4,
+            "element_id": 4,
+            "atk": 10,
+            "def": 60,
+            "hp": 150,
+            "cri": 10
+        },
+        {
+            "character_id"  : 3,
+            "item_id"  : 6,
+            "rarity_id": 3,
+            "element_id": 5,
+            "atk": 15,
+            "def": 30,
+            "hp": 100,
+            "cri": 10
+        },
+        {
+            "character_id"  : 4,
+            "item_id"  : 7,
+            "rarity_id": 2,
+            "element_id": 1,
+            "atk": 20,
+            "def": 20,
+            "hp": 70,
+            "cri": 30
+        },
+        {
+            "character_id"  : 5,
+            "item_id"  : 8,
+            "rarity_id": 1,
+            "element_id": 2,
+            "atk": 10,
+            "def": 30,
+            "hp": 70,
+            "cri": 10
+        }
+]

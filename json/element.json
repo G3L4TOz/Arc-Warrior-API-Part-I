@@ -1,0 +1,22 @@
+[
+        {
+            "element_id"  : 1,
+            "element_name": "Dirt"
+        },
+        {
+            "element_id"  : 2,
+            "element_name": "Water"
+        },
+        {
+            "element_id"  : 3,
+            "element_name": "Wind"
+        },
+        {
+            "element_id"  : 4,
+            "element_name": "Fire"
+        },
+        {
+            "element_id"  : 5,
+            "element_name": "Thunder"
+        }
+]

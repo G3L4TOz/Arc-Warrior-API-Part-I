@@ -1,0 +1,27 @@
+[
+        {
+            "item_type_id"  : 1,
+            "item_type_name"  : "Currency",
+            "keep_in_invent": "FALSE"
+        },
+        {
+            "item_type_id"  : 2,
+            "item_type_name"  : "Character",
+            "keep_in_invent": "FALSE"
+        },
+        {
+            "item_type_id"  : 3,
+            "item_type_name"  : "Upgrade",
+            "keep_in_invent": "TRUE"
+        },
+        {
+            "item_type_id"  : 4,
+            "item_type_name"  : "Ticket",
+            "keep_in_invent": "TRUE"
+        },
+        {
+            "item_type_id"  : 5,
+            "item_type_name"  : "Support",
+            "keep_in_invent": "TRUE"
+        }
+]

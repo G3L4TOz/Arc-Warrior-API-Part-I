@@ -1,0 +1,7 @@
+[
+  { "weight": 80 , "rarity" : "Common",   "name": "Common Warrior"},
+  { "weight": 40 , "rarity" : "Rare",   "name": "Rare Warrior"},   
+  { "weight": 20 , "rarity" : "Epic",  "name": "Epic Warrior"},
+  { "weight": 10 , "rarity" : "Legendary",  "name": "Legend Warrior"},
+  { "weight": 1  , "rarity" : "Mystic", "name": "Mystic Warrior"}
+]

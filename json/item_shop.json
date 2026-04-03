@@ -1,0 +1,33 @@
+[
+        {
+            "item_id"  : 1,
+            "name": "Gacha Ticket",
+            "gold" : 5000,
+            "diamond" : 10
+        },
+        {
+            "item_id"  : 2,
+            "name": "Dirt Element Gems",
+            "token" : 20
+        },
+        {
+            "item_id"  : 3,
+            "name": "Water Element Gems",
+            "token" : 20
+        },
+        {
+            "item_id"  : 4,
+            "name": "Wind Element Gems",
+            "token" : 20
+        },
+        {
+            "item_id"  : 5,
+            "name": "Fire Element Gems",
+            "token" : 20
+        },
+        {
+            "item_id"  : 6,
+            "name": "Thunder Element Gems",
+            "token" : 20
+        }
+]
