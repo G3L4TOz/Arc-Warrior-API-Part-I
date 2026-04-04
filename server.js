@@ -55,10 +55,10 @@ function onClientRequest(req,resp)
     else
     resp.write(JSON.stringify({messages: [
             'Hello Vercel class [2310511105001 ARC WARRIOR - API]',
-            'FOR ITEM TYPE [GET = /api/item_type/open]',
-            'FOR ELEMENT [GET = /api/element/open]',
-            'FOR RARITY [GET = /api/rarity/open]',
-            'FOR ITEM [GET = /api/item/open]',
+            'FOR ITEM TYPE [GET = /api/item_type/list]',
+            'FOR ELEMENT [GET = /api/element/list]',
+            'FOR RARITY [GET = /api/rarity/list]',
+            'FOR ITEM [GET = /api/item/list]',
             'FOR CHARACTER [GET = /api/character/list]'
         ]
         }))
