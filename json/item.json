@@ -25,11 +25,11 @@
         },
         {
             "item_id"  : 4,
-            "item_name"  : "Shinake",
+            "item_name"  : "Test Shinake",
             "item_descript": "Wind Warrior",
-            "item_type_id" : "2",
-            "can_use" : 0,
-            "can_del" : 0
+            "item_type_id" : "1",
+            "can_use" : 1,
+            "can_del" : 1
         },
         {
             "item_id"  : 5,
